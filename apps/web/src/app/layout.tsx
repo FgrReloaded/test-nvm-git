@@ -18,7 +18,7 @@ export default function RootLayout({
       <body>
         <Providers>
           <div className="grid grid-rows-[auto_1fr] h-svh">
-            {children} Hello
+            {children}
           </div>
         </Providers>
       </body>
